@@ -21,3 +21,19 @@ val purple200 = Color(0xFFBB86FC)
 val purple500 = Color(0xFF6200EE)
 val purple700 = Color(0xFF3700B3)
 val teal200 = Color(0xFF03DAC5)
+
+val darkblue = Color(0xFF202E61)
+val blue = Color(0xFF2C4086)
+val lightGrey = Color(0xFF95A3AB)
+val pink = Color(0xFFFF4EA7)
+val yellow = Color(0xFFFFB87E)
+
+// Dark Theme Colors
+val darkSurface = Color(0xFF192832)
+val darkSurfaceVariant = Color(0xFF021B25)
+val onDarkSurface = Color(0xFFFBFFFF)
+val altTextColor = Color(0xFF254F65)
+
+// Light Theme Colors
+val lightSurface = Color(0xFFFFFFFB)
+val onSurface = Color(0xFF26435A)
