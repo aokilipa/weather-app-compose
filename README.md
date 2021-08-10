@@ -10,8 +10,8 @@
 Designs From: [Pixelz Studio Weather Conceptual App Design](https://dribbble.com/shots/15323804-Weather-Conceptual-App-Design?utm_source=Clipboard_Shot&utm_campaign=adinyanuar7&utm_content=Weather%20Conceptual%20App%20Design&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=adinyanuar7&utm_content=Weather%20Conceptual%20App%20Design&utm_medium=Social_Share)
 
 #### Design mocks
-![light](https://github.com/aokilipa/weather-app-compose/blob/develop/results/Weather%20conceptual%20App%20Design%20-%20light.png)
-![dark](https://raw.githubusercontent.com/aokilipa/weather-app-compose/develop/results/Weather%20conceptual%20App%20Design%20-%20Dark.webp)
+![light](https://github.com/aokilipa/weather-app-compose/blob/develop/results/weather_conceptual_app_design_light.png)
+![dark](https://raw.githubusercontent.com/aokilipa/weather-app-compose/develop/results/weather_conceptual_app_design_dark.webp)
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
