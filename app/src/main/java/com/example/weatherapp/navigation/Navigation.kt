@@ -1,13 +1,13 @@
-package com.example.androiddevchallenge.navigation
+package com.example.weatherapp.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.androiddevchallenge.ui.component.NavigationItem
-import com.example.androiddevchallenge.ui.dashboard.FavoriteScreen
-import com.example.androiddevchallenge.ui.dashboard.HomeScreen
-import com.example.androiddevchallenge.ui.dashboard.ProfileScreen
+import com.example.weatherapp.ui.component.NavigationItem
+import com.example.weatherapp.ui.dashboard.FavoriteScreen
+import com.example.weatherapp.ui.dashboard.HomeScreen
+import com.example.weatherapp.ui.dashboard.ProfileScreen
 
 @Composable
 fun Navigation(navController: NavHostController) {

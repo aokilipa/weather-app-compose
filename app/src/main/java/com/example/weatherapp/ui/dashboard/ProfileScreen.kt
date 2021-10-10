@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.ui.dashboard
+package com.example.weatherapp.ui.dashboard
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
@@ -13,7 +13,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.sp
-import com.example.androiddevchallenge.ui.theme.darkblue
+import com.example.weatherapp.ui.theme.darkblue
 
 @Composable
 fun ProfileScreen() {

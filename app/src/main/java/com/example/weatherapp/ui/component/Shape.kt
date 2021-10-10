@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.ui.component
+package com.example.weatherapp.ui.component
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -15,8 +15,8 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import com.example.androiddevchallenge.ui.theme.pink
-import com.example.androiddevchallenge.ui.theme.yellow
+import com.example.weatherapp.ui.theme.pink
+import com.example.weatherapp.ui.theme.yellow
 
 
 @Composable

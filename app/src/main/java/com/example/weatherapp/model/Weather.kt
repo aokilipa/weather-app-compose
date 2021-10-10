@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.model
+package com.example.weatherapp.model
 
 data class Weather(
     val dayOfWeek: String,

@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.ui.component
+package com.example.weatherapp.ui.component
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -16,10 +16,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
-import com.example.androiddevchallenge.model.Hourly
-import com.example.androiddevchallenge.model.Weather
-import com.example.androiddevchallenge.ui.theme.altTextColor
-import com.example.androiddevchallenge.ui.theme.typography
+import com.example.weatherapp.model.Hourly
+import com.example.weatherapp.model.Weather
+import com.example.weatherapp.ui.theme.altTextColor
+import com.example.weatherapp.ui.theme.typography
 
 @Composable
 fun WeatherSummary() {
@@ -31,7 +31,7 @@ fun WeatherSummary() {
     ) {
         Column {
             Text(text = "San Fransisco")
-            Text(text = "18", style = typography.h3)
+            Text(text = "18\u00B0", style = typography.h3)
             Box(
                 modifier = Modifier
                     .background(color = Color.LightGray, shape = RoundedCornerShape(20.dp))

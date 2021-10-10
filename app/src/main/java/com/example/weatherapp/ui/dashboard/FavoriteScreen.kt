@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.ui.dashboard
+package com.example.weatherapp.ui.dashboard
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.Image
@@ -20,9 +20,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.androiddevchallenge.R
-import com.example.androiddevchallenge.ui.theme.blue
-import com.example.androiddevchallenge.ui.theme.typography
+import com.example.weatherapp.R
+import com.example.weatherapp.ui.theme.typography
 
 
 @OptIn(ExperimentalFoundationApi::class)

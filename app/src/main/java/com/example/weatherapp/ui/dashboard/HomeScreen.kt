@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.ui.dashboard
+package com.example.weatherapp.ui.dashboard
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.padding
@@ -10,10 +10,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.compose.rememberNavController
-import com.example.androiddevchallenge.model.hourlyList
-import com.example.androiddevchallenge.model.weatherlist
-import com.example.androiddevchallenge.ui.component.*
-import com.example.androiddevchallenge.ui.theme.MyTheme
+import com.example.weatherapp.model.hourlyList
+import com.example.weatherapp.model.weatherlist
+import com.example.weatherapp.ui.component.*
+import com.example.weatherapp.ui.theme.MyTheme
 
 @Composable
 fun HomeScreen() {

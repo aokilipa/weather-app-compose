@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.ui.component
+package com.example.weatherapp.ui.component
 
 import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
@@ -12,9 +12,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.example.androiddevchallenge.ui.theme.altTextColor
-import com.example.androiddevchallenge.ui.theme.darkblue
-import com.example.androiddevchallenge.ui.theme.lightGrey
 
 @Composable
 fun BottomNavigationBar(navController: NavController) {

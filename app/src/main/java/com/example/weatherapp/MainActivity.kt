@@ -13,22 +13,20 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge
+package com.example.weatherapp
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Scaffold
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.compose.rememberNavController
-import com.example.androiddevchallenge.navigation.Navigation
-import com.example.androiddevchallenge.ui.component.BottomNavigationBar
-import com.example.androiddevchallenge.ui.dashboard.HomeScreen
-import com.example.androiddevchallenge.ui.theme.MyTheme
+import com.example.weatherapp.navigation.Navigation
+import com.example.weatherapp.ui.component.BottomNavigationBar
+import com.example.weatherapp.ui.theme.MyTheme
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
