@@ -73,6 +73,8 @@ val composeVersion = "1.1.0-alpha05"
 val coroutinesVersion = "1.4.2"
 
 dependencies {
+    implementation(project(":shared"))
+
     implementation("androidx.core:core-ktx:1.6.0")
     implementation("androidx.appcompat:appcompat:1.4.0-beta01")
     implementation("com.google.android.material:material:1.4.0")

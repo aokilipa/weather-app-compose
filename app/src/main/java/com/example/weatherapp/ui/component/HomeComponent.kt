@@ -18,6 +18,7 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
 import com.example.weatherapp.model.Hourly
 import com.example.weatherapp.model.Weather
+import com.example.weatherapp.shared.Platform
 import com.example.weatherapp.ui.theme.altTextColor
 import com.example.weatherapp.ui.theme.typography
 
@@ -37,6 +38,7 @@ fun WeatherSummary() {
                     .background(color = Color.LightGray, shape = RoundedCornerShape(20.dp))
             ) {
                 //Spacer(Modifier.matchParentSize().background(Color.LightGray))
+
                 Text(
                     text = "Cloudy",
                     modifier = Modifier.padding(
